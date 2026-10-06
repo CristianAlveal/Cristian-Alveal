@@ -16,8 +16,8 @@ Mi enfoque principal está en el ecosistema **Java (JavaEE 8, 11, 17, 21 / Jakar
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Phyton](https://img.shields.io/badge/phyton-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/phyton-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Phyton](https://img.shields.io/badge/Phyton-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frontend:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
